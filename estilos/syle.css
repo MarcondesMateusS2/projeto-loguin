@@ -93,11 +93,11 @@ div.campo > input{
     background-color: rgba(128, 128, 128, 0.137);
     
     font-size: 1em;
-    width: calc(75%);
-    height: 100%;
+    width: calc(102% - 63px );
+    height: 89%;
     border: 0px;
     border-radius: 8px;
-    padding: 4px;
+    padding: 17px;
     transform: translateY(-10px);
 }
 
